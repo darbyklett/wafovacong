@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aengaifie.simoneau.blog/sitemap.xml
